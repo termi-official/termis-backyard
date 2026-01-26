@@ -1,0 +1,5 @@
+name = "termis-backyard"
+uuid = "316e62c2-ef56-46d6-8ff6-b27ca319ed4d"
+repo = " git@github.com:termi-official/termis-backyard.git"
+
+[packages]
