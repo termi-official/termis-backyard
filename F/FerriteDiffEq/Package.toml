@@ -1,0 +1,3 @@
+name = "FerriteDiffEq"
+uuid = "f2515952-d4b9-4d12-b726-4cc023e03d34"
+repo = "https://github.com/termi-official/FerriteDiffEq.jl"
