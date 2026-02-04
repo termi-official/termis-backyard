@@ -3,4 +3,5 @@ uuid = "316e62c2-ef56-46d6-8ff6-b27ca319ed4d"
 repo = " git@github.com:termi-official/termis-backyard.git"
 
 [packages]
+27d9367a-5072-424e-9c5f-fe582399bac3 = { name = "FerriteOperators", path = "F/FerriteOperators" }
 909927c2-98d5-4a67-bba9-79f03a9ad49b = { name = "Thunderbolt", path = "T/Thunderbolt" }
