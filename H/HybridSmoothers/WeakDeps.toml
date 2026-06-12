@@ -1,2 +1,5 @@
 [0]
 GPUArrays = "0c68f7d7-f131-5f86-a1c3-88cf8149b2d7"
+
+["0.1.2-0"]
+AlgebraicMultigrid = "2169fc97-5a83-5252-b627-83903c6c433c"

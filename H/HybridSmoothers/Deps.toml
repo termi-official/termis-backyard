@@ -6,3 +6,6 @@ LinearSolve = "7ed4a6bd-45f5-4d41-b270-4a48e9bafcae"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 SparseMatricesCSR = "a0a7dd2c-ebf4-11e9-1f05-cf50bc540ca1"
 TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"
+
+["0.1.2-0"]
+MatrixDepot = "b51810bb-c9f3-55da-ae3c-350fc1fbce05"

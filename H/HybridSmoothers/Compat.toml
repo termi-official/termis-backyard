@@ -5,3 +5,6 @@ LinearSolve = "3"
 SparseMatricesCSR = "0.6"
 TimerOutputs = "0.5"
 julia = "1.10.0-1"
+
+["0.1.2-0"]
+MatrixDepot = "1.1.0-1"
