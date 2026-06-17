@@ -4,3 +4,7 @@ CUDA = "5.7.3-*"
 ["0.0.2-0"]
 CUDA = "5.9.6-*"
 GPUArrays = "11.4.0-11"
+
+["0.0.3-0"]
+AlgebraicMultigrid = "2"
+FerriteMultigrid = "0.2"

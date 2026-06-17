@@ -36,3 +36,9 @@ FerriteGmsh = "4f95f4f8-b27c-4ae5-9a39-ea55e634e36b"
 ["0.0.2-0"]
 ConcreteStructs = "2569d6c7-a4a2-43d3-a901-331e8e4be471"
 FerriteOperators = "27d9367a-5072-424e-9c5f-fe582399bac3"
+
+["0.0.3-0"]
+DynamicQuantities = "06fc5a27-2a28-4c7c-a15d-362465fb6821"
+SciCompDSL = "91a8cdf1-4ca6-467b-a780-87fda3fff15e"
+SciMLIterators = "efe4dcdd-3aed-4391-894d-a9dbd16a2f14"
+SciMLLogging = "a6db7da4-7206-11f0-1eab-35f2a5dbe1d1"
