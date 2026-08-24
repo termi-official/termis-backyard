@@ -7,3 +7,7 @@ GPUArrays = "0c68f7d7-f131-5f86-a1c3-88cf8149b2d7"
 ["0.0.3-0"]
 AlgebraicMultigrid = "2169fc97-5a83-5252-b627-83903c6c433c"
 FerriteMultigrid = "69a0a054-a29c-4d77-8818-cd7ec12cfcdc"
+
+["0.0.4-0"]
+ModelingToolkit = "961ee093-0014-501f-94e3-6117800e7a78"
+SciCompDSL = "91a8cdf1-4ca6-467b-a780-87fda3fff15e"

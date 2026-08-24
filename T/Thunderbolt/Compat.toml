@@ -27,18 +27,29 @@ OrdinaryDiffEqOperatorSplitting = "0.3"
 
 ["0.0.2-0"]
 ConcreteStructs = "0.2.3-0.2"
+
+["0.0.2-0.0.3"]
 FerriteOperators = "0.3"
+
+["0.0.3"]
+Ferrite = "1.4.1-1"
+ModelingToolkit = "11"
+OrdinaryDiffEqOperatorSplitting = "0.3.1-0.3"
+SciCompDSL = "1"
 
 ["0.0.3-0"]
 DiffEqBase = "7"
 DynamicQuantities = "1.13.0-1"
 FastBroadcast = "1"
-Ferrite = "1.4.1-1"
 ForwardDiff = "1"
-ModelingToolkit = "11"
 OrdinaryDiffEqCore = "4"
-OrdinaryDiffEqOperatorSplitting = "0.3.1-0.3"
-SciCompDSL = "1"
 SciMLBase = "3"
 SciMLIterators = "1"
 SciMLLogging = "2"
+
+["0.0.4-0"]
+Ferrite = "1.6.0-1"
+FerriteInterfaceElements = "1"
+FerriteOperators = "0.3.7-0.3"
+OrdinaryDiffEqOperatorSplitting = "0.4"
+RecursiveArrayTools = "4"
