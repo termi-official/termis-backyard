@@ -14,8 +14,11 @@ AlgebraicMultigrid = "1.2.0-1"
 ["0-0.1.0"]
 FerriteOperators = "0.2.1-0.2"
 
-["0.1.1-0"]
+["0.1.1-0.2.0"]
 FerriteOperators = ["0.2.1-0.2", "0.3.1-0.3"]
 
 ["0.2-0"]
 AlgebraicMultigrid = "2"
+
+["0.2.1-0"]
+FerriteOperators = "0.4"
