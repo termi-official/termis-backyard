@@ -6,7 +6,6 @@ FastBroadcast = "7034ab61-46d4-4ed7-9d0f-46aef9175898"
 Ferrite = "c061ca5d-56c9-439f-9c0e-210fe06d3992"
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
-KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 LinearSolve = "7ed4a6bd-45f5-4d41-b270-4a48e9bafcae"
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
@@ -35,6 +34,9 @@ FerriteGmsh = "4f95f4f8-b27c-4ae5-9a39-ea55e634e36b"
 DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
 ModelingToolkit = "961ee093-0014-501f-94e3-6117800e7a78"
 
+["0-0.0.4"]
+KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
+
 ["0.0.2-0"]
 ConcreteStructs = "2569d6c7-a4a2-43d3-a901-331e8e4be471"
 FerriteOperators = "27d9367a-5072-424e-9c5f-fe582399bac3"
@@ -50,3 +52,6 @@ SciMLLogging = "a6db7da4-7206-11f0-1eab-35f2a5dbe1d1"
 ["0.0.4-0"]
 FerriteInterfaceElements = "76cf2c14-24ca-44b2-b86c-6046d3cfcf82"
 RecursiveArrayTools = "731186ca-8d62-57ce-b412-fbd966d074cd"
+
+["0.0.5-0"]
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
