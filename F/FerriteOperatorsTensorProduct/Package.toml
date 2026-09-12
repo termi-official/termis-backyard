@@ -1,0 +1,4 @@
+name = "FerriteOperatorsTensorProduct"
+uuid = "3201a26f-dd62-453f-b9f2-4be67ac8202a"
+repo = "git@github.com:termi-official/FerriteOperators.jl.git"
+subdir = "lib/FerriteOperatorsTensorProduct"
