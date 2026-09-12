@@ -3,7 +3,6 @@ CommonSolve = "0.2.4-0.2"
 Ferrite = "1"
 FerriteGmsh = "1.2.1-1"
 LinearAlgebra = "1"
-LinearSolve = "3.17.0-3"
 Reexport = "1"
 TimerOutputs = "0.5"
 julia = "1.10.0-1"
@@ -14,6 +13,9 @@ AlgebraicMultigrid = "1.2.0-1"
 ["0-0.1.0"]
 FerriteOperators = "0.2.1-0.2"
 
+["0-0.2.1"]
+LinearSolve = "3.17.0-3"
+
 ["0.1.1-0.2.0"]
 FerriteOperators = ["0.2.1-0.2", "0.3.1-0.3"]
 
@@ -22,3 +24,6 @@ AlgebraicMultigrid = "2"
 
 ["0.2.1-0"]
 FerriteOperators = "0.4"
+
+["0.2.2-0"]
+LinearSolve = "3.17.0-5"
