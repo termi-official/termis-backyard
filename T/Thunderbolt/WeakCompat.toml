@@ -14,3 +14,6 @@ FerriteMultigrid = "0.2"
 ["0.0.4-0"]
 ModelingToolkit = "11"
 SciCompDSL = "1"
+
+["0.0.7-0"]
+KernelAbstractions = "0.9"
